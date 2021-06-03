@@ -1,0 +1,14 @@
+SMAP
+categ_002dagregar_jsp.java
+JSP
+*S JSP
+*F
++ 0 categ-agregar.jsp
+Administrador/categoria/categ-agregar.jsp
++ 1 nav.css
+Administrador/categoria/../styles/nav.css
+*L
+5,10:49
+1#1,251:59
+14#0,82:309
+*E
