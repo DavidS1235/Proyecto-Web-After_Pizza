@@ -8,3 +8,9 @@ El presente proyecto busca atender la demanda por pedido de ocmida rápida en ho
 2. Ejecutar el index.html. 
 
 NOTA: Para el inicio de sesión consultar los usuarios y sus roles existentes en la BD en la tabla "usuarios" o bien, si lo desea podrá crear un usuario desde el apartado de registro. Se recomienda la ejecución con NetBeans IDE, el archivo a ejecutar es: "index.jsp".
+
+### Interfaz administrador
+
+Al loguearse con las credenciales de administrador se le redireccionará a la vista de index, en la cual en la parte superior derecha visualizará una opcion "Configuración de página", una vez dentro de la misma se cambiará la vista a la vista de administrador. Desde allí podrá agregar, listar, modificar y eliminar tanto usuarios como productos, categorias y pedidos.
+
+
